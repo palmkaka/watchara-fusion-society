@@ -86,13 +86,6 @@ export default function HomePage() {
             {/* Store Information */}
             <div className="space-y-3">
               <div className="flex items-center gap-3">
-                <div className="w-9 h-9 rounded-xl overflow-hidden shadow-sm shrink-0 border border-stone-700 bg-white">
-                  <img
-                    src="/logo.png"
-                    alt="Watchara Fusion Society"
-                    className="w-full h-full object-cover"
-                  />
-                </div>
                 <span className="font-extrabold text-white text-lg tracking-tight">
                   Watchara Fusion Society
                 </span>

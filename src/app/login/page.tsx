@@ -161,13 +161,6 @@ export default function LoginPage() {
       <div className="w-full max-w-[440px] bg-white rounded-3xl p-8 sm:p-10 shadow-xl shadow-stone-200/60 border border-stone-200 transition-all">
         {/* Header with Watchara Fusion Logo */}
         <div className="text-center space-y-2 mb-8">
-          <div className="w-16 h-16 rounded-2xl overflow-hidden shadow-md mx-auto mb-3 border border-stone-200 bg-white flex items-center justify-center">
-            <img
-              src="/logo.png"
-              alt="Watchara Fusion Society"
-              className="w-full h-full object-cover"
-            />
-          </div>
           <h1 className="text-2xl sm:text-3xl font-black tracking-tight text-stone-900">
             {mode === 'login' ? 'เข้าสู่ระบบ' : 'สมัครสมาชิก'}
           </h1>

@@ -75,14 +75,7 @@ export default function Navbar({ onOpenCart, onScrollToProducts }: NavbarProps) 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16 sm:h-20">
           {/* Brand Logo & Name: Watchara Fusion Society */}
-          <Link href="/" className="flex items-center gap-3 group">
-            <div className="w-10 h-10 sm:w-11 sm:h-11 rounded-xl overflow-hidden shadow-sm group-hover:scale-105 transition-transform shrink-0 border border-stone-200 bg-white flex items-center justify-center">
-              <img
-                src="/logo.png"
-                alt="Watchara Fusion Society"
-                className="w-full h-full object-cover"
-              />
-            </div>
+          <Link href="/" className="flex items-center group">
             <div>
               <div className="flex items-center gap-1.5">
                 <span className="font-black text-stone-900 tracking-tight text-base sm:text-lg lg:text-xl">

@@ -141,9 +141,6 @@ export default function AdminPage() {
               </Link>
               <div className="h-4 w-px bg-stone-700 hidden sm:block" />
               <div className="flex items-center gap-2">
-                <div className="w-6 h-6 rounded-md overflow-hidden shrink-0 border border-stone-600 bg-white">
-                  <img src="/logo.png" alt="" className="w-full h-full object-cover" />
-                </div>
                 <span className="font-extrabold text-sm sm:text-base tracking-tight">
                   WATCHARA BACKOFFICE
                 </span>

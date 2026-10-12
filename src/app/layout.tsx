@@ -7,11 +7,7 @@ export const metadata: Metadata = {
   title: 'Watchara Fusion Society - Product Showcase & Dynamic Inventory',
   description:
     'Modern Retail Storefront for Watchara Fusion Society with Dynamic Inventory & Inquiry Cart',
-  icons: {
-    icon: '/logo.png',
-    shortcut: '/logo.png',
-    apple: '/logo.png',
-  },
+
 };
 
 export default function RootLayout({
@@ -22,8 +18,6 @@ export default function RootLayout({
   return (
     <html lang="th" className="h-full antialiased scroll-smooth">
       <head>
-        <link rel="icon" href="/logo.png" type="image/png" />
-        <link rel="apple-touch-icon" href="/logo.png" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link
