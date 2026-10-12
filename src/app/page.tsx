@@ -87,7 +87,7 @@ export default function HomePage() {
             <div className="space-y-3">
               <div className="flex items-center gap-3">
                 <span className="font-extrabold text-white text-lg tracking-tight">
-                  Watchara Fusion Society
+                  Retail Space
                 </span>
               </div>
               <p className="text-xs leading-relaxed text-stone-400">
@@ -121,7 +121,7 @@ export default function HomePage() {
                 </li>
                 <li className="flex items-center gap-2">
                   <Mail className="w-3.5 h-3.5 text-amber-400" />
-                  <span>อีเมล: contact@watcharafusion.com</span>
+                  <span>อีเมล: contact@retailspace.com</span>
                 </li>
                 <li className="flex items-center gap-2">
                   <Clock className="w-3.5 h-3.5 text-amber-400" />
@@ -151,7 +151,7 @@ export default function HomePage() {
           </div>
 
           <div className="pt-8 border-t border-stone-800 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-stone-500">
-            <div>&copy; 2026 Watchara Fusion Society Co., Ltd. สงวนลิขสิทธิ์ทุกประการ</div>
+            <div>&copy; 2026 Retail Space Co., Ltd. สงวนลิขสิทธิ์ทุกประการ</div>
             <div className="flex items-center gap-4">
               <span>นโยบายความเป็นส่วนตัว</span>
               <span>&bull;</span>

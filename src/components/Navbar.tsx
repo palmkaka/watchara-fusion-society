@@ -33,7 +33,7 @@ export default function Navbar({ onOpenCart, onScrollToProducts }: NavbarProps) 
           {/* Loop Item 1 */}
           <div className="flex items-center gap-6 sm:gap-8 px-6 shrink-0 font-medium">
             <span className="text-white font-semibold">
-              ✨ ยินดีต้อนรับสู่ Watchara Fusion Society &bull; สินค้าพร้อมส่งจริง จัดส่งรวดเร็วทั่วประเทศ
+              ✨ ยินดีต้อนรับสู่ Retail Space &bull; สินค้าพร้อมส่งจริง จัดส่งรวดเร็วทั่วประเทศ
             </span>
             <span className="text-amber-400 font-bold">&bull;</span>
             <span className="flex items-center gap-1.5 text-stone-300">
@@ -53,7 +53,7 @@ export default function Navbar({ onOpenCart, onScrollToProducts }: NavbarProps) 
           {/* Loop Item 2 (Seamless loop mirror) */}
           <div className="flex items-center gap-6 sm:gap-8 px-6 shrink-0 font-medium" aria-hidden="true">
             <span className="text-white font-semibold">
-              ✨ ยินดีต้อนรับสู่ Watchara Fusion Society &bull; สินค้าพร้อมส่งจริง จัดส่งรวดเร็วทั่วประเทศ
+              ✨ ยินดีต้อนรับสู่ Retail Space &bull; สินค้าพร้อมส่งจริง จัดส่งรวดเร็วทั่วประเทศ
             </span>
             <span className="text-amber-400 font-bold">&bull;</span>
             <span className="flex items-center gap-1.5 text-stone-300">
@@ -74,12 +74,12 @@ export default function Navbar({ onOpenCart, onScrollToProducts }: NavbarProps) 
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16 sm:h-20">
-          {/* Brand Logo & Name: Watchara Fusion Society */}
+          {/* Brand Logo & Name: Retail Space */}
           <Link href="/" className="flex items-center group">
             <div>
               <div className="flex items-center gap-1.5">
                 <span className="font-black text-stone-900 tracking-tight text-base sm:text-lg lg:text-xl">
-                  Watchara Fusion Society
+                  Retail Space
                 </span>
               </div>
               <p className="text-[10px] sm:text-[11px] text-stone-400 font-semibold tracking-wide uppercase -mt-0.5 hidden sm:block">

@@ -1,5 +1,5 @@
 # 📘 คู่มือสถาปัตยกรรมระบบ ความปลอดภัย และการใช้งาน
-## Watchara Fusion Society — Retail Product Showcase & Dynamic Inventory
+## Retail Space — Retail Product Showcase & Dynamic Inventory
 
 ---
 
@@ -17,7 +17,7 @@
 
 ## 1. ภาพรวมของระบบ (System Overview)
 
-**Watchara Fusion Society** เป็นเว็บแอปพลิเคชันร้านค้าปลีกสมัยใหม่ (Modern Retail Storefront & Dynamic Inventory) ที่ออกแบบมาเพื่อรองรับการแสดงสินค้าคุณภาพ การจัดการสต็อกสินค้าแบบเรียลไทม์ และระบบตะกร้าสอบถาม (Inquiry Cart) ที่เชื่อมต่อการขายสู่ LINE OA โดยไม่มีความซับซ้อนของ Payment Gateway พร้อมระบบหลังบ้านที่มีการแยกสิทธิ์อย่างเข้มงวด
+**Retail Space** เป็นเว็บแอปพลิเคชันร้านค้าปลีกสมัยใหม่ (Modern Retail Storefront & Dynamic Inventory) ที่ออกแบบมาเพื่อรองรับการแสดงสินค้าคุณภาพ การจัดการสต็อกสินค้าแบบเรียลไทม์ และระบบตะกร้าสอบถาม (Inquiry Cart) ที่เชื่อมต่อการขายสู่ LINE OA โดยไม่มีความซับซ้อนของ Payment Gateway พร้อมระบบหลังบ้านที่มีการแยกสิทธิ์อย่างเข้มงวด
 
 ### 🛠️ เทคโนโลยีที่ใช้ (Tech Stack)
 - **Frontend Framework**: [Next.js 16](https://nextjs.org/) (App Router, Turbopack, React 19)

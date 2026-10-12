@@ -38,7 +38,7 @@ export default function InquiryCartDrawer({ isOpen, onClose }: InquiryCartDrawer
   // Generate clean formatted text summary
   const generateSummaryText = () => {
     const lines = [
-      `🛒 [ใบสอบถามและจองสินค้า - Watchara Fusion Society]`,
+      `🛒 [ใบสอบถามและจองสินค้า - Retail Space]`,
       `---------------------------------------`,
       `👤 ข้อมูลลูกค้า:`,
       `• ชื่อ: ${customerName.trim() || 'ไม่ได้ระบุ'}`,

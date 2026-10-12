@@ -4,9 +4,9 @@ import { AuthProvider } from '../lib/context/AuthContext';
 import { StoreProvider } from '../lib/context/StoreContext';
 
 export const metadata: Metadata = {
-  title: 'Watchara Fusion Society - Product Showcase & Dynamic Inventory',
+  title: 'Retail Space - Product Showcase & Dynamic Inventory',
   description:
-    'Modern Retail Storefront for Watchara Fusion Society with Dynamic Inventory & Inquiry Cart',
+    'Modern Retail Storefront for Retail Space with Dynamic Inventory & Inquiry Cart',
 
 };
 

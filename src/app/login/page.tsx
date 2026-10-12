@@ -153,20 +153,20 @@ export default function LoginPage() {
           <span>กลับไปยังหน้าร้านค้าปลีก</span>
         </Link>
         <span className="text-[11px] font-bold text-stone-400 uppercase tracking-wider">
-          WATCHARA FUSION SOCIETY
+          RETAIL SPACE
         </span>
       </div>
 
       {/* Main Login / Register Card */}
       <div className="w-full max-w-[440px] bg-white rounded-3xl p-8 sm:p-10 shadow-xl shadow-stone-200/60 border border-stone-200 transition-all">
-        {/* Header with Watchara Fusion Logo */}
+        {/* Header */}
         <div className="text-center space-y-2 mb-8">
           <h1 className="text-2xl sm:text-3xl font-black tracking-tight text-stone-900">
             {mode === 'login' ? 'เข้าสู่ระบบ' : 'สมัครสมาชิก'}
           </h1>
           <p className="text-xs sm:text-[13px] text-stone-500 font-medium">
             {mode === 'login'
-              ? 'กรุณากรอกข้อมูลเพื่อเข้าสู่ระบบ Watchara Fusion Society'
+              ? 'กรุณากรอกข้อมูลเพื่อเข้าสู่ระบบ Retail Space'
               : 'กรุณากรอกข้อมูลเพื่อสร้างบัญชีผู้ใช้งานใหม่'}
           </p>
         </div>
@@ -551,7 +551,7 @@ export default function LoginPage() {
             </div>
 
             <p className="text-[11px] text-stone-500">
-              กรณีต้องการรีเซ็ตรหัสผ่านจริง กรุณาติดต่อฝ่ายบริการลูกค้า Watchara Fusion Society:
+              กรณีต้องการรีเซ็ตรหัสผ่านจริง กรุณาติดต่อฝ่ายบริการลูกค้า Retail Space:
               <br />
               &bull; โทร: 02-123-4567
               <br />

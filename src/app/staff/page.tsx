@@ -111,7 +111,7 @@ export default function StaffPage() {
               <div className="h-4 w-px bg-stone-700 hidden sm:block" />
               <div className="flex items-center gap-2">
                 <span className="font-extrabold text-sm sm:text-base tracking-tight">
-                  WATCHARA INVENTORY
+                  RETAIL SPACE INVENTORY
                 </span>
                 <span className="text-[10px] uppercase font-bold px-2 py-0.5 rounded-full bg-blue-900 text-blue-200 border border-blue-700 flex items-center gap-1">
                   <UserCheck className="w-3 h-3" />

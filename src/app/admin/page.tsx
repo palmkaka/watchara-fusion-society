@@ -142,7 +142,7 @@ export default function AdminPage() {
               <div className="h-4 w-px bg-stone-700 hidden sm:block" />
               <div className="flex items-center gap-2">
                 <span className="font-extrabold text-sm sm:text-base tracking-tight">
-                  WATCHARA BACKOFFICE
+                  RETAIL SPACE BACKOFFICE
                 </span>
                 <span className="text-[10px] uppercase font-bold px-2 py-0.5 rounded-full bg-purple-900 text-purple-200 border border-purple-700 flex items-center gap-1">
                   <ShieldCheck className="w-3 h-3" />
